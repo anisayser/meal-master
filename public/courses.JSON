@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Absolute Beginners Cooking Course",
+      "price": 29,
+      "author": "Tim Burton",
+      "cover": "https://www.jessannkirby.com/wp-content/uploads/2019/06/Jess-Kirby-dairy-free-pesto-recipe-06970-740x550.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Basic Level Youth Health and Cooking",
+      "price": 35,
+      "author": "Fred Hyman",
+      "cover": "https://www.jessannkirby.com/wp-content/uploads/2021/03/Healthier-25-Minute-Kung-Pao-Chicken-5-740x550.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Online Healthy Cooking Course",
+      "price": 24,
+      "author": "Devon Koss",
+      "cover": "https://www.sitelinesb.com/wp-content/uploads/2021/04/Nasi-Campur-Ayam-Bumbu-Rujak-mixed-rice-with-sweet-and-spicy-coconut-sauce-chicken-courtesy-SoCal-Indo-Food-740x550.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Sea Fish Special Cooking Course",
+      "price": 42,
+      "author": "Dwayne Johnson",
+      "cover": "https://inconnects.com/thumb/740x550/1/upload/sanpham/tai-xuong-11-160222676600.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fast food Course",
+      "price": 65,
+      "author": "Roony Smith",
+      "cover": "https://www.lbhomeliving.com/new2019/wp-content/uploads/2022/05/download-14-740x550.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ultimate Pizza Course",
+      "price": 38,
+      "author": "James Miller",
+      "cover": "https://www.theexchangehotel.com.au/wp-content/uploads/2020/12/DSC5554-1-740x550.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Secret Steak Course",
+      "price": 50,
+      "author": "John Morison",
+      "cover": "https://www.cavegirl.co.nz/wp-content/uploads/2015/06/Lamb550-740x550.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Secret Fast Food Training",
+      "price": 46,
+      "author": "Micale Harris",
+      "cover": "http://hypefeast.com/wp-content/uploads/2019/06/Guerrilla-Tacos-740x550.jpg"
+    }
+  ]
